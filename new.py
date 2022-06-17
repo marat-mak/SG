@@ -1,0 +1,1 @@
+SELECT num FROM N WHERE num > 3 AND num < 100
